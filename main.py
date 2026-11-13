@@ -1,14 +1,3 @@
-"""O Torneio dos 12  //  versão 15 MEDIEVAL  (DEMO: 3 provas, só a Arcânia jogável)
-
-Tema: livro de contos / teatrinho de papel. Madeira, pergaminho, vinho e ouro, tudo desenhado por código.
-
-Pastas ao lado deste arquivo:
-  assets/  -> logo.png e sprites (veja o dicionário SPRITES logo abaixo)
-  music/   -> músicas do reprodutor (veja PLAYLIST)
-Se um sprite não existir, o jogo desenha uma versão em pixel art por código.
-
-Teste sem tela cheia:  T12_WINDOWED=1 python torneio12_v14_demo.py
-"""
 import base64
 import io
 import json
@@ -2017,7 +2006,7 @@ OLOKO_INTROS = {
         "subtitle": "OLOKO EXPLICA A PROVA",
         "lines": [
             "Prova três: equilíbrio. Suba na barra e tente não passar vergonha na frente do público.",
-            "O vento vai empurrar você para os lados. Use as setas para corrigir e ficar na zona verde por 20 segundos!",
+            "Use as setas para corrigir e ficar na zona verde por 20 segundos!",
         ],
         "rules": [
             "OBJETIVO: FICAR NA ZONA VERDE O MÁXIMO DE TEMPO",

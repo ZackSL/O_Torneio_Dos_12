@@ -1,0 +1,27 @@
+{
+  "Fácil": [
+    {
+      "nickname": "jessica",
+      "total": 193,
+      "quiz": 41,
+      "race": 74,
+      "balance": 78,
+      "house": "Arcânia",
+      "race_seconds": 39.35,
+      "seconds": 339.14
+    }
+  ],
+  "Médio": [
+    {
+      "nickname": "pp",
+      "total": 184,
+      "quiz": 39,
+      "race": 77,
+      "balance": 68,
+      "house": "Arcânia",
+      "race_seconds": 31.98,
+      "seconds": 188.48
+    }
+  ],
+  "Infernal": []
+}
